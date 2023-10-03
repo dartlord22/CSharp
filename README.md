@@ -32,17 +32,20 @@ Follow these instructions to get the calculator application up and running on yo
 
    ```bash
    git clone https://github.com/yourusername/calculatorproject.git
-Navigate to the project directory:
+   
+2. Navigate to the project directory:
 
 bash
 Copy code
 cd calculatorproject
-Build the application:
+
+3. Build the application:
 
 bash
 Copy code
 dotnet build
-Usage
+
+**Usage**
 To use the calculator, follow these steps:
 
 Run the application:
@@ -50,6 +53,7 @@ Run the application:
 bash
 Copy code
 dotnet run
+
 Enter the first number when prompted.
 
 Enter the second number when prompted.
