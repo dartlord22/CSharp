@@ -28,29 +28,29 @@ Follow these instructions to get the calculator application up and running on yo
 
 1. Clone the repository to your local machine:
 
-   bash
-   git clone https://github.com/yourusername/calculatorproject.git
+   -bash
+   -git clone https://github.com/yourusername/calculatorproject.git
    
 2. Navigate to the project directory:
 
-  bash
-  Copy code
-  cd calculatorproject
+  -bash
+  -Copy code
+  -cd calculatorproject
 
 3. Build the application:
 
-  bash
-  Copy code
-  dotnet build
+  -bash
+  -Copy code
+  -dotnet build
 
 **Usage**
 To use the calculator, follow these steps:
 
 Run the application:
 
-bash
-Copy code
-dotnet run
+-bash
+-Copy code
+-dotnet run
 
 Enter the first number when prompted.
 
