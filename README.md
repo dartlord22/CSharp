@@ -8,7 +8,6 @@ Welcome to my C# Practice Applications Repository! This repository contains a co
 - [Applications](#applications)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
