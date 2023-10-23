@@ -1,67 +1,40 @@
-# CSharp-Practice
+# C# Practice Applications Repository
 
-# Simple C# Calculator Console Application
-
-This is a simple C# console application that allows you to perform basic arithmetic operations (addition, subtraction, multiplication, and division) with two numbers.
+Welcome to my C# Practice Applications Repository! This repository contains a collection of small console applications that I've been working on for practice and learning purposes.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Overview](#overview)
+- [Applications](#applications)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## Overview
 
-This C# console application provides a basic calculator functionality. It prompts the user to input two numbers and select an operation (+ for addition, - for subtraction, * for multiplication, / for division). The application then performs the chosen operation and displays the result.
+This repository serves as a showcase of my progress in learning C#. Each application in this collection demonstrates various aspects of C# programming and software development. Feel free to explore and try out the applications listed below.
+
+## Applications
+
+1. **Application 1**
+   - Description: [Brief description of the first application.]
+   - [Link to Application 1 Folder](/app1/)
+
+2. **Application 2**
+   - Description: [Brief description of the second application.]
+   - [Link to Application 2 Folder](/app2/)
+
+3. **Application 3**
+   - Description: [Brief description of the third application.]
+   - [Link to Application 3 Folder](/app3/)
+
+[Add more applications as needed, following the same format.]
 
 ## Getting Started
 
-Follow these instructions to get the calculator application up and running on your local machine.
+Each application has its own README file within its respective folder. To get started with a specific application, navigate to its folder and follow the instructions provided in its README.
 
-### Prerequisites
+## Contributing
 
-- [.NET Core SDK](https://dotnet.microsoft.com/download/dotnet)
+If you have suggestions for improvements, find issues, or want to contribute to any of the applications in this repository, please feel free to submit a pull request or open an issue. Your contributions are welcome!
 
-### Installation
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/calculatorproject.git
-   
-2. Navigate to the project directory:
-
-bash
-Copy code
-cd calculatorproject
-
-3. Build the application:
-
-bash
-Copy code
-dotnet build
-
-**Usage**
-To use the calculator, follow these steps:
-
-Run the application:
-
-bash
-Copy code
-dotnet run
-
-Enter the first number when prompted.
-
-Enter the second number when prompted.
-
-Choose an operation by typing one of the following options:
-
-+ : Addition
-- : Subtraction
-* : Multiplication
-/ : Division
-The application will perform the selected operation and display the result.
