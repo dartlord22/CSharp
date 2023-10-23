@@ -16,15 +16,15 @@ This repository serves as a showcase of my progress in learning C#. Each applica
 ## Applications
 
 1. **Calculator App**
-   - Description: [Brief description of the first application.]
+   - Simple calculator console app where user can add, subtract, multiply, and divide numbers 
    - [Link to Application 1 Folder](/app1/)
 
 2. **Number Guessing Game App**
-   - Description: [Brief description of the second application.]
+   - Simple console app where user can try to guess a randomly generated number between 1 and 100 
    - [Link to Application 2 Folder](/app2/)
 
 3. **Rock-Paper-Scissors App**
-   - Description: [Brief description of the third application.]
+   - Simple console app where user can play Rock-Paper-Scissors against CPU 
    - [Link to Application 3 Folder](/app3/)
 
 ## Getting Started
