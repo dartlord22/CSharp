@@ -33,7 +33,7 @@ Follow these instructions to get the calculator application up and running on yo
    
 2. Navigate to the project directory:
 
-  -bash
+  -[bash]
   -Copy code
   -cd calculatorproject
 
