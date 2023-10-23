@@ -15,19 +15,17 @@ This repository serves as a showcase of my progress in learning C#. Each applica
 
 ## Applications
 
-1. **Application 1**
+1. **Calculator App**
    - Description: [Brief description of the first application.]
    - [Link to Application 1 Folder](/app1/)
 
-2. **Application 2**
+2. **Number Guessing Game App**
    - Description: [Brief description of the second application.]
    - [Link to Application 2 Folder](/app2/)
 
-3. **Application 3**
+3. **Rock-Paper-Scissors App**
    - Description: [Brief description of the third application.]
    - [Link to Application 3 Folder](/app3/)
-
-[Add more applications as needed, following the same format.]
 
 ## Getting Started
 
